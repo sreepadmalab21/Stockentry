@@ -1,0 +1,2 @@
+# Stockentry
+using for stockentry
